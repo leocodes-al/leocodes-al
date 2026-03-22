@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Leonardo Nascimento
 
-💻 Desenvolvedor Front-End em formação  
-🚀 Focado em criar interfaces modernas, responsivas e funcionais  
+💻 Desenvolvedor Full Stack em formação  
+🚀 Construindo interfaces modernas e evoluindo para aplicações completas
 
 ---
 
