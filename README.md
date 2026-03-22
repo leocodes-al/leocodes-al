@@ -7,11 +7,11 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor front-end em formação, dedicado a aprender e evoluir constantemente na área de tecnologia.
+Sou um desenvolvedor em formação com foco em me tornar Full Stack, construindo aplicações completas — do front-end ao back-end.
 
-Tenho interesse em criar interfaces modernas, organizadas e responsivas, sempre buscando melhorar minhas habilidades através de projetos práticos e desafios reais.
+Atualmente, desenvolvo minhas habilidades em front-end, criando interfaces modernas, organizadas e responsivas, enquanto avanço nos estudos de tecnologias que me permitam atuar também no back-end.
 
-Meu objetivo é crescer profissionalmente como desenvolvedor front-end e contribuir com soluções que ofereçam uma boa experiência para o usuário.
+Busco evoluir constantemente através de projetos práticos e desafios reais, com o objetivo de me tornar um desenvolvedor completo, capaz de entregar soluções eficientes e proporcionar uma excelente experiência ao usuário.
 
 ---
 
