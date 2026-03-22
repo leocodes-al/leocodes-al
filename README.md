@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor em formação com foco em me tornar Full Stack, construindo aplicações completas — do front-end ao back-end.
+Sou um desenvolvedor em formação com foco em me tornar Full Stack, construindo aplicações completas do front-end ao back-end.
 
 Atualmente, desenvolvo minhas habilidades em front-end, criando interfaces modernas, organizadas e responsivas, enquanto avanço nos estudos de tecnologias que me permitam atuar também no back-end.
 
