@@ -51,10 +51,3 @@ src="https://github-readme-stats.vercel.app/api?username=leocodes-al&show_icons=
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocodes-al&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
-
----
-
-## 📫 Contato
-
-Em breve...
----
