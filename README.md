@@ -1,21 +1,23 @@
-# 👋 Olá! Eu sou Leonardo Nascimento
+# 👋 Olá! Eu sou Leonardo Nascimento  
 
 💻 Desenvolvedor Full Stack em formação  
-🚀 Construindo interfaces modernas e evoluindo para aplicações completas
+🚀 Focado em construir aplicações completas e resolver problemas reais com código  
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim  
 
-Sou um desenvolvedor em formação com foco em me tornar Full Stack, construindo aplicações completas do front-end ao back-end.
+Sou um desenvolvedor em formação com foco em me tornar **Full Stack**, criando aplicações completas do front-end ao back-end.  
 
-Atualmente, desenvolvo minhas habilidades em front-end, criando interfaces modernas, organizadas e responsivas, enquanto avanço nos estudos de tecnologias que me permitam atuar também no back-end.
+Atualmente, estou aprofundando minhas habilidades em **JavaScript, manipulação de DOM e lógica de programação**, desenvolvendo projetos práticos que simulam cenários reais — como sistemas com carrinho de compras e integração com WhatsApp.  
 
-Busco evoluir constantemente através de projetos práticos e desafios reais, com o objetivo de me tornar um desenvolvedor completo, capaz de entregar soluções eficientes e proporcionar uma excelente experiência ao usuário.
+Tenho como objetivo evoluir constantemente, não apenas na parte visual, mas também na **lógica, organização de código e experiência do usuário**.  
+
+💡 Busco minha primeira oportunidade como desenvolvedor para aplicar na prática tudo o que venho construindo e aprendendo.  
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias que utilizo  
 
 <div style="display: inline_block">
 
@@ -38,7 +40,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📌 Projetos em destaque  
+
+🛒 **Hortifruti Web**  
+Sistema de e-commerce simples com carrinho de compras e finalização de pedido via WhatsApp.  
+Focado em lógica com arrays, eventos, manipulação de DOM e organização de código.  
+
+🚧 Em constante evolução — novos projetos sendo desenvolvidos.  
+
+---
+
+## 📊 Estatísticas do GitHub  
 
 <div align="center">
 
@@ -51,3 +63,11 @@ src="https://github-readme-stats.vercel.app/api?username=leocodes-al&show_icons=
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocodes-al&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 📫 Contato  
+
+📩 Em breve: LinkedIn e outras formas de contato  
+
+---
