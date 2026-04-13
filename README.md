@@ -46,28 +46,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 Sistema de e-commerce simples com carrinho de compras e finalização de pedido via WhatsApp.  
 Focado em lógica com arrays, eventos, manipulação de DOM e organização de código.  
 
-🚧 Em constante evolução — novos projetos sendo desenvolvidos.  
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-
-<a href="https://github.com/leocodes-al">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=leocodes-al&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocodes-al&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📫 Contato  
-
-📩 Em breve: LinkedIn e outras formas de contato  
-
----
+🚧 Em constante evolução — novos projetos sendo desenvolvidos.
