@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Sobre mim  
+## Sobre mim  
 
 Sou um desenvolvedor em constante evolução, atualmente focado no desenvolvimento Full Stack, criando aplicações web modernas utilizando HTML, CSS, JavaScript e React.  
 
@@ -13,37 +13,24 @@ Venho desenvolvendo projetos práticos para aprimorar minhas habilidades em fron
 
 Meus projetos passam por etapas de planejamento e prototipação no Figma antes do desenvolvimento, buscando interfaces mais organizadas, funcionais e próximas de aplicações reais do mercado.  
 
-💡 Busco minha primeira oportunidade como desenvolvedor para continuar evoluindo tecnicamente, ganhar experiência profissional e contribuir com soluções bem estruturadas e funcionais.  
+Busco minha primeira oportunidade como desenvolvedor para continuar evoluindo tecnicamente, ganhar experiência profissional e contribuir com soluções bem estruturadas e funcionais.  
 
 ---
 
-## 🛠️ Tecnologias que utilizo  
+## Tecnologias que utilizo  
 
 <div style="display: inline_block">
-
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="JavaScript" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="React" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-<img align="center" alt="Git" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="GitHub" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 ---
 
-## 📌 Projetos em destaque  
+## Projetos em destaque  
 
 ✈️ **Orbita — Plataforma de Viagens**  
 Aplicação SPA desenvolvida com React, utilizando React Router, componentização, navegação dinâmica e layouts inspirados em plataformas reais de turismo.  
